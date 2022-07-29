@@ -18,7 +18,7 @@ const Home = () => {
 			<div className="about">
 				<div className="about-heading-video">
 					{/* <img src="/flyer.jpg" alt="" /> */}
-					<video src="/video.mp4" controls autoPlay />
+					<video src="/video2.mp4" controls autoPlay />
 				</div>
 				{/* <div className="about-text">
 					<p>
